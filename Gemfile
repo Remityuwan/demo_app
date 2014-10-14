@@ -39,7 +39,7 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin]
 
-ruby '1.9.3'
+ruby '2.0.0'
 #ruby-gemset=railstutorial_rails_4_0
 group :production do
 	gem 'pg', '0.15.1'
